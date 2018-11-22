@@ -1,4 +1,4 @@
-###James The Game Developer 
+# James The Game Developer 
 
 ## Welcome to GitHub Pages
 
