@@ -1,5 +1,6 @@
 # James The Game Developer 
 
+## If you need help you can go to Github pages where this will show.
 ## Welcome to GitHub Pages
 
 
